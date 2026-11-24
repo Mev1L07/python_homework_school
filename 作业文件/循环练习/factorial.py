@@ -1,3 +1,4 @@
+# 输入一个非负整数，计算它的阶乘
 number = int(input("请输入一个非负整数："))
 
 if number < 0:

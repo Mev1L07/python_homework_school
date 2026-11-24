@@ -1,3 +1,4 @@
+# 输入身高体重算 BMI，判断偏瘦/正常/超重/肥胖
 height = float(input("请输入身高（米）："))
 weight = float(input("请输入体重（公斤）："))
 

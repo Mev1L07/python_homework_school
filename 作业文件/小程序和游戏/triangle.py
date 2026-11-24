@@ -1,3 +1,4 @@
+# 输入三个点的坐标，计算三角形三条边的长度（math.hypot）
 import math
 
 x1 = float(input("请输入A点x坐标："))

@@ -1,3 +1,4 @@
+# 用 if-elif 判断年龄是否达到投票资格
 x=float(input("Enter your age: "))
 if x>=18:
     print("You are eligible to vote.")

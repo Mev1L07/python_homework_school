@@ -1,3 +1,4 @@
+# 用 keyword 模块列出 Python 所有关键字并判断是否为关键字
 import keyword
 
 print("Python 关键字：")

@@ -1,3 +1,4 @@
+# 自我介绍：输入名字、年龄、爱好，输出问候语（input 与 f-string 练习）
 name = input("请输入你的名字：").strip()
 age = input("请输入你的年龄：").strip()
 hobby = input("请输入你的爱好：").strip()

@@ -1,3 +1,4 @@
+# 用 f-string 格式化小数位数，以及 math.pi 的取值
 import math
 
 number = math.pi

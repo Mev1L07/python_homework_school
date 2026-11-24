@@ -1,3 +1,4 @@
+# 用 while 循环累加 1 到 100
 total = 0
 number = 1
 

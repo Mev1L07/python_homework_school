@@ -1,3 +1,4 @@
+# 自定义函数求两个数的最小值（带 try/except 输入校验）
 def f4(a,b):
     if a<b:
         return a

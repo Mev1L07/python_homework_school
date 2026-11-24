@@ -1,3 +1,4 @@
+# 进制转换器：二进制/十进制/十六进制互相转换（带菜单的小程序）
 def binary_to_decimal(binary_str):
     """二进制转十进制"""
     value = binary_str.strip()

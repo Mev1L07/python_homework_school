@@ -1,3 +1,4 @@
+# 用 f-string 输出十进制、十六进制和字符（chr）
 first = 98
 second = 10009
 

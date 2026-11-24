@@ -1,3 +1,4 @@
+# 成绩等级判断：优秀/良好/及格/不及格（if-elif 链）
 score = float(input("请输入你的 Python 考试成绩（0 到 100）："))
 
 if not 0 <= score <= 100:

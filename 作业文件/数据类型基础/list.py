@@ -1,3 +1,4 @@
+# 列表增删改：拼接、extend、append、insert
 x1=[1,2,3,4,5]
 print(type(x1))
 x2=[5,6,7,8,9]

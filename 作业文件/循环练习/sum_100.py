@@ -1,3 +1,4 @@
+# 用 while 循环累加 1 到 100 之间的所有奇数
 odd_total = 0
 number = 1
 while number <= 100:
